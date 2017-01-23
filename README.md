@@ -1,5 +1,7 @@
-# Angular2CrudBoilerplate
+# angular2-crud-boilerplate
+Basic angular2 project with angular-cli to build a boilerplate for CRUD.
 
+# Tool
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.25.5.
 
 ## Development server
